@@ -1,3 +1,3 @@
 install: 
   - FILE="-Dfile=libwebrtc.aar" 
-  - mvn install:install-file $FILE -DgroupId=com.github.hometue -DartifactId=webrtc -Dversion=0.1 -Dpackaging=aar -DgeneratePom=true
+  - mvn install:install-file $FILE -DgroupId=com.github.whizzscooters -DartifactId=webrtc -Dversion=M90 -Dpackaging=aar -DgeneratePom=true
